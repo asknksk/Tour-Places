@@ -4,7 +4,7 @@
 
 ## Project Preview
 
-![Alt Text]()
+![Alt Text](https://github.com/asknksk/Tour-Places/blob/master/src/assets/Preview.gif)
 
 <hr>
 
@@ -18,5 +18,5 @@
 
 ## Project Link
 
-<a href="" target="_blank">Netlify Link</a> to access my project.
-<a href="" target="_blank">Vercel Link</a> to access my project.
+<a href="https://tour-places-react-app.netlify.app" target="_blank">Netlify Link</a> to access my project. <br>
+<a href="https://tour-places-eta.vercel.app/" target="_blank">Vercel Link</a> to access my project.
