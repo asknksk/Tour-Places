@@ -1,4 +1,4 @@
-# Flag-App
+# React Tour Places Project
 
 <hr>
 
